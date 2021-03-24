@@ -1,5 +1,5 @@
 function getGrade(marks){
-    var marks=prompt("Enter your marks:");
+    marks=prompt("Enter your marks:");
     if(marks>=80){
         console.log("A");
     }
